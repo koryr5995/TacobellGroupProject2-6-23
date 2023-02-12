@@ -1,0 +1,315 @@
+.topbar{
+    height: 10vh;
+    display:flex ;
+    justify-content: space-evenly;
+}
+.login{
+    height: 100%;
+    width: 10%;
+    display:flex ;
+}
+.tblogo{
+    height: 100%;
+    width: 10%;
+    display:flex ;
+}
+
+.rside{
+    height: 100%;
+    width: 10%;
+    display:flex ;
+}
+
+.rsidea{
+    margin-left: 30px;
+}
+.rsideb{
+    margin-left: 100px;
+}
+
+.two{
+    height: 1px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    height: 200vh;
+    width: 16%;
+    position: fixed;
+}
+.menu{
+    margin-top: 3px;
+    width: 125px;
+    height: 100px;
+    transform: skewY(-10deg);
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu:hover {
+    cursor: pointer;
+    background: black;
+    color: white;
+}
+.b{
+    height: 350vh;
+    width: 85%;
+    margin-left: 13.35%;
+}
+.ab{
+    background-image: url("https://www.tacobell.com/_static/web/images/delivery/DaaS-hero-2022-E07-Evergreen-Desktop-v2.jpg");
+    height: 70vh;
+    width: 100%;
+}
+.aba{
+    height: 14vh;
+}
+.abb{
+    height: 14vh;
+}
+.abc{
+    padding: 1em;
+    height: 8vh;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+}
+.abd{
+    padding: 1em;
+    height: 5vh;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+}
+.abe{
+    height: 14vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 8em;
+    padding-top: 1em;
+}
+.bb{
+    height: 30vh;
+}
+.bba{
+    height: 10vh;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 2em;
+}
+.bbb{
+    height: 9vh;
+    text-align: center;
+}
+.cb{
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+.cbab{
+    height: 25vh;
+    width: 150px;
+}
+.cbaba{
+    font-weight: bold;
+    font-size: 20px;
+}
+.cbabb{
+    font-weight: bold;
+    font-size: 15px;
+}
+.cbbb{
+    height: 25vh;
+    width: 150px;
+}
+.cbbba{
+        font-weight: bold;
+        font-size: 20px;
+}
+.cbbbb{
+    font-weight: bold;
+    font-size: 15px;
+}
+.cbcb{
+    height: 25vh;
+    width: 150px;
+}
+.cbcba{
+    font-weight: bold;
+    font-size: 20px;
+}
+.cbcbb{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.db{
+    background-image: url("https://www.tacobell.com/_static/web/images/delivery/DaaS-text-2022-E07-Offers-Deals-Desktop-v2.jpg");
+    width: 100%;
+    height: 22vh;
+    text-align: center;
+}
+.dba{
+    height: 5vh;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 1em;
+}
+.dbb{
+    height: 5vh;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+    font-weight: bold;
+    font-size: 15px;
+}
+.dbc{
+    height: 5vh;
+}
+.dbca{
+    background-color: magenta;
+    width: 200px;
+    height: 70px;
+    margin-right: 50px;
+}
+.eb{
+    height: 5vh;
+    width: 100%;
+    text-align: center;
+    padding: 2em;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+    font-size: 35px;
+    
+}
+.fb{
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1em;
+}
+.fba{
+    background-image: url("https://www.tacobell.com/_static/web/images/delivery/DaaS-tile-2022-E07-Delivery-Partners-Desktop-v2.jpg");
+    background-size:  contain;
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 450px;
+}
+.fbb{
+    height: 25vh;
+    width: 300px;
+    padding: 1em;
+}
+.fbba{
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+    font-weight: bold;
+    font-size: 22px ;
+}
+.fbbb{
+    font-weight: bold;
+    font-size: 15px;
+}
+.fbbc{
+    color: purple;
+}
+.gb{
+    height: 13vh;
+}
+.gba{
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+    font-weight: bolder;
+    font-size: 32px ;
+    padding-top: 2em;
+    text-align: center;
+}
+.hb{
+    height: 30vh;
+}
+.hba{
+    height: 15vh;
+    margin-left: 8%;
+    bottom: 0;
+    left: 0;
+}
+.hba1{
+    bottom: 0;
+    left: 0;
+    text-align: bottom;
+    font-weight: bolder;
+    font-size: 35px;
+    border-bottom: solid lightgray;
+}
+.hbb{
+    height: 15vh;
+    margin-left: 8%;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.hbb1{
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    font-weight: bolder;
+    font-size: 35px;
+    border-bottom: solid lightgray;
+}
+.hdiv1{
+    height: 10vh;
+}
+.ib{
+    height: 40vh;
+}
+.iba{
+    height: 3vh;
+    font-size: 13px;
+    font-weight: bold;
+    color: gray;
+    text-align: center;
+    padding: 1em;
+}
+.ibb{
+    height: 10vh;
+    font-size: 13px;
+    font-weight: bold;
+    color: gray;
+    text-align: center;
+    padding: 1em;
+}
+.jbb{
+    height: 10vh;
+    text-align: center;
+    font-weight: bold;
+}
+.kb{
+    border-bottom: solid lightgray;
+    height: 10vh;
+    font-weight: bold;
+    justify-content: space-around;
+}
+.links{
+    display: inline-block;
+    padding: 2px;
+}
+.lb{
+    height: 20vh;
+}
+.lba{
+    height: 9vh;
+    display: flex;
+}
+.links1{
+    word-spacing: 1px;
+    color: purple;
+}
+.lbb{
+    height: 9vh;
+    text-align: center;
+    font-weight: bold;
+}
